@@ -69,7 +69,7 @@ export default function Join() {
 
           {/* WeChat */}
           <a
-              href="/images/socials/wechat.png"
+              href="/images/socials/wechat-qr.jpg"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-amber-400 transition-colors duration-300"
