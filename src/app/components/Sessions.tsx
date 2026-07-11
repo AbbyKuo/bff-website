@@ -35,8 +35,7 @@ const weeklySchedule = [
     isWeekend: true,
     sessions: [
       { venue: "Active Badminton Centre", time: "Session 1: 8:00 AM – 10:00 AM" },
-      { venue: "Active Badminton Centre", time: "Session 2: 10:00 AM – 12:00 PM" },
-      { venue: "Sky Badminton", time: "Session 3: 6:00 PM – 8:00 PM" }
+      { venue: "Active Badminton Centre", time: "Session 2: 10:00 AM – 12:00 PM" }
     ]
   },
   {
