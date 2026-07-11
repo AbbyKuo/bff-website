@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+:root {
+  --color-blue-50: #e8edf5;
+  --color-blue-100: #c5d0e6;
+  --color-blue-200: #9fb0d3;
+  --color-blue-300: #7890c0;
+  --color-blue-400: #5170ad;
+  --color-blue-500: #2a509a;
+  --color-blue-600: #0a2a5e;
+  --color-blue-700: #082249;
+  --color-blue-800: #061936;
+  --color-blue-900: #040f22;
+
+  --color-amber-50: #fef7e8;
+  --color-amber-100: #fdecc5;
+  --color-amber-200: #fbda9e;
+  --color-amber-300: #f9c877;
+  --color-amber-400: #f7b64e;
+  --color-amber-500: #f5a623;
+  --color-amber-600: #d48c15;
+  --color-amber-700: #a86e10;
+  --color-amber-800: #7d510b;
+  --color-amber-900: #523606;
+}
+
+html {
+  /* Keep hash-target headings visible under the sticky navbar */
+  scroll-behavior: smooth;
+}
+
+section[id] {
+  scroll-margin-top: 3rem;
+}
